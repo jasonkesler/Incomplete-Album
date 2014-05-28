@@ -1,0 +1,9 @@
+Package: com.k3levs.incomplete
+Name: Incomplete Album
+Depends: mobilesubstrate
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Hides 'Complete This Album' in Music App
+Maintainer: name
+Author: Jason Kesler
+Section: Tweaks

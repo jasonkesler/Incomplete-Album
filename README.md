@@ -1,4 +1,4 @@
-incomplete-album
+Incomplete Album
 ================
 
 Hides 'Complete album' in the Music app on iOS 7
